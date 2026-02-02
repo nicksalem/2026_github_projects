@@ -11,9 +11,10 @@ Each project focuses on real-world data, clear problem framing, and reproducible
 - Utilizing APIs
 - Building features for machine learning tools
 
-- **Dashboards & Data Apps**
+## Dashboards - NBA Data and Machine Learning
   - Interactive dashboards built with Python and web tools
   - Focus on usability and stakeholder decision-making
+  - Include how data analysis leads into Data Science and Machine Learning
   - Utilize Google Cloud Platform API and write to Big Query for cloud storage
 
 ## Tools & Skills Demonstrated
@@ -22,6 +23,7 @@ Each project focuses on real-world data, clear problem framing, and reproducible
 - Data cleaning & feature engineering
 - Statistical thinking & hypothesis testing
 - Visualization & communication
+- Machine Learning
 
 ## How to Navigate
 Each folder contains:
